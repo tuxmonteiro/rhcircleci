@@ -1,4 +1,4 @@
-FROM tuxmonteiro/docker-openjdk:8
+FROM tuxmonteiro/docker-openjdk:11
 
 MAINTAINER tuxmonteiro
 
